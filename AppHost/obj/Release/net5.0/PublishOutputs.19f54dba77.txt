@@ -1,0 +1,8 @@
+C:\TestProjectStuff\CoreHost5\AppHost\obj\Release\net5.0\PubTmp\Out\AppHost.exe
+C:\TestProjectStuff\CoreHost5\AppHost\obj\Release\net5.0\PubTmp\Out\wwwroot\Index.html
+C:\TestProjectStuff\CoreHost5\AppHost\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\TestProjectStuff\CoreHost5\AppHost\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\TestProjectStuff\CoreHost5\AppHost\obj\Release\net5.0\PubTmp\Out\AppHost.dll
+C:\TestProjectStuff\CoreHost5\AppHost\obj\Release\net5.0\PubTmp\Out\AppHost.deps.json
+C:\TestProjectStuff\CoreHost5\AppHost\obj\Release\net5.0\PubTmp\Out\AppHost.runtimeconfig.json
+C:\TestProjectStuff\CoreHost5\AppHost\obj\Release\net5.0\PubTmp\Out\AppHost.pdb
